@@ -1,4 +1,4 @@
-# # Agentic Profile Analysis
+# Agentic Profile Analysis
 
 A LinkedIn profile analysis tool that helps you gather information about people and create engaging conversation starters.
 
